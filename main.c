@@ -3,6 +3,11 @@
 
 int main(void)
 {
+	do_the_thing();
+	return EXIT_SUCCESS;
+}
+
+void do_the_thing() {
 	int v = 1;
 	for (int i = 0; i < 4; i++) {
 		for (int j = 0; j <= i; j++) {
@@ -15,6 +20,4 @@ int main(void)
 		
 		v += 1;
 	}
-	
-	return EXIT_SUCCESS;
 }
