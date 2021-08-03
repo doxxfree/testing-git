@@ -21,3 +21,7 @@ If you check "add readme", "add gitignore" etc. etc. then GitHub will put files 
 That means, any changes you want to make will have to be made ON TOP OF the files that GitHub already placed in the repo.
 You will not be able to push your own project to the repo (because remote origin / repo already contains files).
 To ensure you have an empty repo to start with, do not check any of those boxes.
+
+I'm going to add one more file.
+And this file (README.md) has changed too.
+Next we will be creating another commit, with these new changes.
