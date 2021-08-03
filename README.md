@@ -25,3 +25,5 @@ To ensure you have an empty repo to start with, do not check any of those boxes.
 I'm going to add one more file.
 And this file (README.md) has changed too.
 Next we will be creating another commit, with these new changes.
+
+Ok I make more changes. Add them. Commit them and then push commits to github.
